@@ -58,7 +58,7 @@ The Student Information System (SIS) is a comprehensive software application des
 ## Technology Stack
 
 ### - ***Database:*** `SQL`
-### - ***Front-end:*** `AngularJS`
+### - ***Front-end:*** `ReactJS`
 ### - ***Back-end:*** `Spring Boot`
 
 

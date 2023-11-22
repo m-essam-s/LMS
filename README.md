@@ -60,15 +60,10 @@ The Student Information System (SIS) is a comprehensive software application des
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=figma,vscode,git,github" />
-    <img src="https://skillicons.dev/icons?i=html,css,js" />
-    <img src="https://skillicons.dev/icons?i=react,spring,mysql" />
+    <img src="https://skillicons.dev/icons?i=html,css,js" /> 
+    <img src="https://skillicons.dev/icons?i=mysql,express,react,nodejs" />
   </a>
 </p>
-
-### - ***Database:*** `SQL`
-### - ***Front-end:*** `ReactJS`
-### - ***Back-end:*** `Spring Boot`
-
 
 ## Contributing
 

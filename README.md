@@ -78,8 +78,8 @@ This project is licensed under the MIT License
 
 - ### Advisor: [***FerventFrost***](https://github.com/FerventFrost). 
 - ### Team Leader: [***Mohamed Essam***](https://github.com/m-essam-s). 
-- ### Team Member: [***Omar Sameh***](https://github.com/omarsameh01).
-- ### Team Member: [***Malak Khaled***](https://github.com/Malak-khaled).
+- ### Team Member: [***Omar Sameh***](https://github.com/O-sameh).
+- ### Team Member: [***Malak Khaled***](https://github.com/Malak-Khaled).
 
 ## Author✍️
 

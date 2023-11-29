@@ -1,4 +1,4 @@
-# Student Information System Documentation 
+# Learning Management System Documentation 
 
 ## 0x1. Component Diagram [`Malak Khaled`](https://github.com/Malak-Khaled)
 > Include a brief explanation of the component diagram, highlighting the major components of your system and how they interact.

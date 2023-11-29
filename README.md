@@ -1,59 +1,56 @@
-# Student Information System (SIS)
+# Learning Management System (LMS)
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
 ## Overview
 
-The Student Information System (SIS) is a comprehensive software application designed to centralize and manage information about students within an educational institution. This repository contains the source code and documentation for the SIS project.
+The Student Information System (LMS) is a comprehensive software application designed to centralize and manage information about students within an educational institution. This repository contains the source code and documentation for the LMS project.
 
 ## Features
 
-- ### **Student Registration System:**
-  - Manages the process of student enrollment and registration.
-  - Captures and stores personal information about students, including contact details, identification, and demographic data.
-  - Generates unique student IDs and maintains a record of courses registered.
+1. **Course Management Subsystem:**
+   - Handles the creation, modification, and deletion of courses.
+   - Manages course information such as course code, name, dates, category, abstract, and bibliography.
 
-- ### **Grading System:**
-  - Records and manages student grades and academic performance.
-  - Calculates GPAs (Grade Point Averages) and transcripts.
-  - Provides a platform for instructors to input grades and generate reports.
+2. **User Management Subsystem:**
+   - Manages information related to users, including students and teachers.
+   - Handles user registration and stores details such as names, email addresses, date of birth, and phone numbers.
 
-- ### **Attendance Management System:**
-  - Monitors and records student attendance for each class.
-  - Generates attendance reports for both students and faculty.
-  - Alerts administrators or parents about irregular attendance patterns.
+3. **Enrollment Management Subsystem:**
+   - Manages the enrollment of students in courses.
+   - Tracks enrollment dates and provides the ability to cancel enrollments with reasons.
 
-- ### **Course Management System:**
-  - Manages information related to courses offered by the institution.
-  - Includes details about course schedules, faculty assigned, syllabi, and course materials.
+4. **Class Management Subsystem:**
+   - Manages classes within a course.
+   - Tracks class details such as class number, date, time, and title.
 
-- ### **Financial Management System:**
-  - Handles financial transactions related to student fees, scholarships, and other financial aspects.
-  - Generates invoices, tracks payments, and manages student accounts.
+5. **Attendance Management Subsystem:**
+   - Handles the recording of student attendance in classes.
+   - Captures arrival and departure times for each student in a class.
 
-- ### **Library Management System:**
-  - Manages library resources, including books, journals, and other materials.
-  - Keeps track of borrowed and returned items, fines, and overdue materials.
+6. **Exam Management Subsystem:**
+   - Manages exams within a course.
+   - Tracks exam details such as date, time, topics covered, and student scores.
 
-- ### **Exam and Timetable Management:**
-  - Manages exam schedules and timetables for classes.
-  - Provides a platform for students to view exam schedules and results.
+7. **Teacher Management Subsystem:**
+   - Manages information related to teachers.
+   - Handles teacher registration and associates teachers with one or more courses.
 
-- ### **Communication System:**
-  - Facilitates communication between students, faculty, and administrators.
-  - Includes features such as messaging, announcements, and discussion forums.
+8. **Semester Management Subsystem:**
+   - Manages information related to academic semesters.
+   - Tracks semester details such as semester ID, description, start date, end date, GPA, current GPA, vacation dates, etc.
 
-- ### **Advising and Counseling System:**
-  - Supports academic advising and counseling services for students.
-  - Keeps track of student progress and provides recommendations for academic improvement.
+9. **Test Score Management Subsystem:**
+   - Manages the recording of student scores for tests.
+   - Associates test scores with specific exams, courses, semesters, and students.
 
-- ### **Reporting and Analytics:**
-  - Generates various reports for administrators, faculty, and students.
-  - Provides data analytics to identify trends, track student performance, and make informed decisions.
+10. **Program Management Subsystem:**
+    - Manages academic programs.
+    - Tracks program details such as program ID, name, description, and associated fields.
 
-- ### **Security and Authentication System:**
-  - Manages user access and authentication to ensure data security and privacy.
-  - Controls access levels for different users such as students, faculty, and administrators.
+11. **Field Management Subsystem:**
+    - Manages academic fields of study.
+    - Tracks field details such as field ID, name, and description.
 
 ## Technology Stack
 
@@ -69,10 +66,6 @@ The Student Information System (SIS) is a comprehensive software application des
 ## Contributing
 
 We welcome contributions from the community!
-
-## License
-
-This project is licensed under the MIT License
 
 ## Acknowledgments
 

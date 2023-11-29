@@ -1,54 +1,56 @@
 # Learning Management System (LMS)
 
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
-
 ## Overview
 
 The Student Information System (LMS) is a comprehensive software application designed to centralize and manage information about students within an educational institution. This repository contains the source code and documentation for the LMS project.
 
 ## Features
+- **Student Registration Subsystem:**
+   - Implement a user-friendly interface for student enrollment.
+   - Ensure data accuracy and validation during registration.
+   - Develop a system to generate and manage unique student IDs.
 
-1. **Course Management Subsystem:**
+- **Course Management Subsystem:**
    - Handles the creation, modification, and deletion of courses.
    - Manages course information such as course code, name, dates, category, abstract, and bibliography.
 
-2. **User Management Subsystem:**
+- **User Management Subsystem:**
    - Manages information related to users, including students and teachers.
    - Handles user registration and stores details such as names, email addresses, date of birth, and phone numbers.
 
-3. **Enrollment Management Subsystem:**
+- **Enrollment Management Subsystem:**
    - Manages the enrollment of students in courses.
    - Tracks enrollment dates and provides the ability to cancel enrollments with reasons.
 
-4. **Class Management Subsystem:**
+- **Class Management Subsystem:**
    - Manages classes within a course.
    - Tracks class details such as class number, date, time, and title.
 
-5. **Attendance Management Subsystem:**
+- **Attendance Management Subsystem:**
    - Handles the recording of student attendance in classes.
    - Captures arrival and departure times for each student in a class.
 
-6. **Exam Management Subsystem:**
+- **Exam Management Subsystem:**
    - Manages exams within a course.
    - Tracks exam details such as date, time, topics covered, and student scores.
 
-7. **Teacher Management Subsystem:**
+- **Teacher Management Subsystem:**
    - Manages information related to teachers.
    - Handles teacher registration and associates teachers with one or more courses.
 
-8. **Semester Management Subsystem:**
+- **Semester Management Subsystem:**
    - Manages information related to academic semesters.
    - Tracks semester details such as semester ID, description, start date, end date, GPA, current GPA, vacation dates, etc.
 
-9. **Test Score Management Subsystem:**
+- **Test Score Management Subsystem:**
    - Manages the recording of student scores for tests.
    - Associates test scores with specific exams, courses, semesters, and students.
 
-10. **Program Management Subsystem:**
+- **Program Management Subsystem:**
     - Manages academic programs.
     - Tracks program details such as program ID, name, description, and associated fields.
 
-11. **Field Management Subsystem:**
+- **Field Management Subsystem:**
     - Manages academic fields of study.
     - Tracks field details such as field ID, name, and description.
 

@@ -1,10 +1,5 @@
 # Student Information System Documentation 
 
-## 0x0. Entity Relationship Diagram (ERD) [`Mohamed Essam`](https://github.com/m-essam-s)
-> Visual representation of the relationships among entities in a database. It shows how different entities are related to each other.
-
-![Entity Relationship Diagram](./EntityRelationshipDiagram.svg)
-
 ## 0x1. Component Diagram [`Malak Khaled`](https://github.com/Malak-Khaled)
 > Include a brief explanation of the component diagram, highlighting the major components of your system and how they interact.
 

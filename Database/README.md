@@ -1,4 +1,4 @@
-# Learning Management System Database
+# Learning Management System Database [`Mohamed Essam`](https://github.com/m-essam-s)
 
 ## Database Design Requirements List 
 
@@ -16,5 +16,3 @@
 ![ER-D](./EntityRelationshipDiagram.svg)
 ## Database Implementation
 - [SQL Code](./LMS.sql)
-
-### [`Mohamed Essam`](https://github.com/m-essam-s)

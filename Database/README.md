@@ -14,5 +14,7 @@
 - The database should keep a record of each time a student takes a test, storing the score obtained.
 
 ![ER-D](./EntityRelationshipDiagram.svg)
+## Database Implementation
+- [SQL Code](./LMS.sql)
 
 ### [`Mohamed Essam`](https://github.com/m-essam-s)

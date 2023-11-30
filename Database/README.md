@@ -1,6 +1,6 @@
-# Learning Management System Database Design
+# Learning Management System Database
 
-## The Requirements List 
+## Database Design Requirements List 
 
 - Course information includes a course code (unique identifier), a course name or title, start/end dates, course category, course abstract, and bibliography. The course category must belong to a list of predetermined categories.
 - Students’ registrations must contain their names and email addresses. Other data, such as date of birth and telephone number, can optionally be registered.

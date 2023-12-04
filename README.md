@@ -64,17 +64,18 @@ The Student Information System (LMS) is a comprehensive software application des
   </a>
 </p>
 
+## Contributors
+Thanks to the following individuals who have contributed to this project:
+- [*`Omar Sameh`*](https://github.com/O-sameh) | Team `Member`
+- [*`Mohamed Essam`*](https://github.com/m-essam-s) | Team `Leader`
+- [*`Malak Khaled`*](https://github.com/Malak-Khaled) | Team `Member`
+
+## Acknowledgments
+- ### Advisor: [***FerventFrost***](https://github.com/FerventFrost). 
 
 ## Contributing
 
 We welcome contributions from the community!
-
-## Acknowledgments
-
-- ### Advisor: [***FerventFrost***](https://github.com/FerventFrost). 
-- ### Team Leader: [***Mohamed Essam***](https://github.com/m-essam-s). 
-- ### Team Member: [***Omar Sameh***](https://github.com/O-sameh).
-- ### Team Member: [***Malak Khaled***](https://github.com/Malak-Khaled).
 
 ## Author✍️
 

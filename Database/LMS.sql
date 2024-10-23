@@ -144,3 +144,4 @@ CREATE TABLE Course_Grade_History (
   PRIMARY KEY (Course_ID, Semester_ID, Student_ID),
   FOREIGN KEY (Student_ID) REFERENCES Student(Student_ID)
 );
+

@@ -78,5 +78,4 @@ Thanks to the following individuals who have contributed to this project:
 We welcome contributions from the community!
 
 ## Author✍️
-
 > ### **[Mohamed Essam](https://twitter.com/m-essam-s)** <[m-essam-s](https://github.com/m-essam-s)>

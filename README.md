@@ -66,13 +66,11 @@ The Learning Management System (LMS) is a comprehensive software application des
 
 ## Contributors
 Thanks to the following individuals who have contributed to this project:
-- [*`Omar Sameh`*](https://github.com/O-sameh) | Team `Member`
 - [*`Mohamed Essam`*](https://github.com/m-essam-s) | Team `Leader`
 - [*`Malak Khaled`*](https://github.com/Malak-Khaled) | Team `Member`
-
-## Acknowledgments
-- ### Advisor: [***FerventFrost***](https://github.com/FerventFrost). 
-
+- [*`Omar Sameh`*](https://github.com/O-sameh) | Team `Member`
+- [*`Baher Adel`*](https://github.com/FerventFrost) | Team `supporter`.
+- 
 ## Contributing
 
 We welcome contributions from the community!

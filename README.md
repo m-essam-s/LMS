@@ -69,8 +69,8 @@ Thanks to the following individuals who have contributed to this project:
 - [*`Mohamed Essam`*](https://github.com/m-essam-s) | Team `Leader`
 - [*`Malak Khaled`*](https://github.com/Malak-Khaled) | Team `Member`
 - [*`Omar Sameh`*](https://github.com/O-sameh) | Team `Member`
-- [*`Baher Adel`*](https://github.com/FerventFrost) | Team `supporter`.
-- 
+- [*`Baher Adel`*](https://github.com/FerventFrost) | Team `supporter`
+
 ## Contributing
 
 We welcome contributions from the community!

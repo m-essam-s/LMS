@@ -58,9 +58,7 @@ The Learning Management System (LMS) is a comprehensive software application des
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=figma,vscode,git,github" />
-    <img src="https://skillicons.dev/icons?i=html,css,js" /> 
-    <img src="https://skillicons.dev/icons?i=mysql,express,react,nodejs" />
+    <img src="https://skillicons.dev/icons?i=mysql" />
   </a>
 </p>
 

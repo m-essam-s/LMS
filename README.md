@@ -8,9 +8,5 @@ The Learning Management System (LMS) is a comprehensive software application des
 Thanks to the following individuals who have contributed to this project:
 - [*`Mohamed Essam`*](https://github.com/m-essam-s) | Team `Leader`
 
-## Contributing
-
-We welcome contributions from the community!
-
 ## Author✍️
 > ### **[Mohamed Essam](https://twitter.com/m-essam-s)** <[m-essam-s](https://github.com/m-essam-s)>
